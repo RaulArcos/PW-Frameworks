@@ -1,0 +1,60 @@
+CRITICAL - 2022-03-18 18:18:17 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-03-18 18:19:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-03-18 18:19:26 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-03-18 18:19:26 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-03-18 18:19:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-03-18 18:19:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-03-18 18:19:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-03-18 18:19:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-03-18 18:19:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(28): require('...')
+#4 {main}
+CRITICAL - 2022-03-18 18:19:37 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(28): require('...')
+#4 {main}

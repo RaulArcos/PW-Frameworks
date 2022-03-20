@@ -1,0 +1,270 @@
+CRITICAL - 2022-03-20 14:38:04 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:46:45 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(20): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:46:47 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(20): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:46:47 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(20): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:46:47 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(20): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:47:29 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(20): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:42 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:43 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:43 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:44 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:44 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:44 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:44 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:44 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:45 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:45 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:45 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:45 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:45 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:45 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:46 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:46 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:46 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:50 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:51 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:51 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:51 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:51 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:51 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-20 14:48:52 --> Invalid file: template/header.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(15): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
