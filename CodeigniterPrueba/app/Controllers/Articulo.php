@@ -4,7 +4,15 @@ use CodeIgniter\Controller;
 
 class Articulo extends Controller{
     public function index(){
-        return view('welcome_message');
+        $model = new ArticuloModel();
+            $data = [
+                'articulos' => $model->getArticulos(),
+                'title' => 'Bienvenido a la web de Articulos',
+            ];
+
+        echo view('templates/header', $data);
+        echo view('articulo/overview', $data);
+        echo view('templates/footer', $data);
     }
     public function view($page = 'home'){
         if(!is_file(APPPATH.'/Views/articulo/'.$page.'.php'))
@@ -12,8 +20,8 @@ class Articulo extends Controller{
 
         $data['title'] = ucfirst($page);
 
-        echo view('template/header',$data);
+        echo view('templates/header',$data);
         echo view('articulo/'.$page,$data);
-        echo view('template/footer',$data);
+        echo view('templates/footer',$data);
     }
 } 
