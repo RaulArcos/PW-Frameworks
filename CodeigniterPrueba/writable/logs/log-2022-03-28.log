@@ -16,3 +16,64 @@ CRITICAL - 2022-03-28 07:47:03 --> Class "app\Models\ArticuloModel" not found
 #2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
 #3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
 #4 {main}
+CRITICAL - 2022-03-28 12:53:45 --> Invalid file: articulo/unarticulo.php
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(29): view()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-28 13:06:40 --> min_lenght is not a valid rule.
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(35): CodeIgniter\Controller->validate()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->create()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#7 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-28 13:07:33 --> min_lenght is not a valid rule.
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(35): CodeIgniter\Controller->validate()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->create()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#7 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-03-28 13:18:47 --> Column 'cuerpo' cannot be null
+CRITICAL - 2022-03-28 13:18:47 --> Column 'cuerpo' cannot be null
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Database\MySQLi\Connection.php(292): mysqli->query()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\BaseModel.php(738): CodeIgniter\Model->doInsert()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Model.php(625): CodeIgniter\BaseModel->insert()
+#7 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\BaseModel.php(658): CodeIgniter\Model->insert()
+#8 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(42): CodeIgniter\BaseModel->save()
+#9 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->create()
+#10 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#11 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#12 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-03-28 13:19:21 --> Column 'cuerpo' cannot be null
+CRITICAL - 2022-03-28 13:19:21 --> Column 'cuerpo' cannot be null
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Database\MySQLi\Connection.php(292): mysqli->query()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\BaseModel.php(738): CodeIgniter\Model->doInsert()
+#6 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\Model.php(625): CodeIgniter\BaseModel->insert()
+#7 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\BaseModel.php(658): CodeIgniter\Model->insert()
+#8 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(42): CodeIgniter\BaseModel->save()
+#9 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->create()
+#10 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#11 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#12 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}

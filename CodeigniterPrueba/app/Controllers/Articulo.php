@@ -31,12 +31,11 @@ class Articulo extends Controller{
     }
     public function create(){
         $model = new ArticuloModel();
-        if($this->request->getMethod() === 'post' && $this->validate([
-            'title' => 'required|min_lenght[3]|max_lenght[255]',
-            'description' => 'required',
-            'cuerpo' => 'required'
-        ]))
-        {
+        if ($this->request->getMethod() === 'post' //&& $this->validate([
+            //'title' => 'required|min_length[3]|max_length[255]',
+            //'descripcion' => 'required',
+            //'cuerpo' => 'required'])
+        ){
             $model->save([
             'title' => $this->request->getPost('title'),
             'descripcion' => $this->request->getPost('descripcion'),
