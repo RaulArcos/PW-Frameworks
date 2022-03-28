@@ -1,0 +1,18 @@
+CRITICAL - 2022-03-28 05:09:46 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-28 07:46:25 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-28 07:47:03 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->index()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

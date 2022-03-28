@@ -1,7 +1,7 @@
 <?php namespace App\Controllers;
 
 use CodeIgniter\Controller;
-use app\Models\ArticuloModel;
+use App\Models\ArticuloModel;
 
 class Articulo extends Controller{
     public function index(){
