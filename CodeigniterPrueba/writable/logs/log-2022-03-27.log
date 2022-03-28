@@ -1,0 +1,194 @@
+CRITICAL - 2022-03-27 17:52:07 --> Class "App\Controllers\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 17:52:13 --> Class "App\Controllers\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 17:52:15 --> Class "App\Controllers\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 17:55:45 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 17:55:47 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 17:55:47 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 17:55:47 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 17:55:48 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 17:56:54 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 17:57:04 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 17:57:04 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 17:58:21 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 18:18:47 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 18:18:48 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 18:18:48 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 18:18:49 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 18:18:49 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 18:18:49 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 18:31:50 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 18:31:51 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 18:31:51 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 18:31:51 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-27 18:32:24 --> Undefined variable $model
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(21): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-27 18:32:25 --> Undefined variable $model
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(21): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-27 18:32:25 --> Undefined variable $model
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(21): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-27 18:32:25 --> Undefined variable $model
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(21): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-27 18:32:26 --> Undefined variable $model
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(21): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-27 18:32:26 --> Undefined variable $model
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(21): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-27 18:32:26 --> Undefined variable $model
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(21): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-27 18:32:26 --> Undefined variable $model
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\app\Controllers\Articulo.php(21): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#4 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-27 18:42:35 --> Class "app\Models\ArticuloModel" not found
+#0 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(832): App\Controllers\Articulo->view()
+#1 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#2 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\AppServ\www\PW-Frameworks\CodeigniterPrueba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
