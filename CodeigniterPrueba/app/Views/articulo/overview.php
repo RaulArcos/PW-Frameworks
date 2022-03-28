@@ -1,3 +1,5 @@
+<p><a href="/articulo/create">Create article</a></p>
+
 <?php if(! empty($articulos) && is_array($articulos)) : 
     foreach ($articulos as $articulos_item): ?>
 

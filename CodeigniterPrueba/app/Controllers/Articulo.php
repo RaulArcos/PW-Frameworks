@@ -29,4 +29,25 @@ class Articulo extends Controller{
         echo view('articulo/unarticulo',$data);
         echo view('templates/footer',$data);
     }
-} 
+    public function create(){
+        $model = new ArticuloModel();
+        if($this->request->getMethod() === 'post' && $this->validate([
+            'title' => 'required|min_lenght[3]|max_lenght[255]',
+            'description' => 'required',
+            'cuerpo' => 'required'
+        ]))
+        {
+            $model->save([
+            'title' => $this->request->getPost('title'),
+            'descripcion' => $this->request->getPost('descripcion'),
+            'cuerpo' => $this->request->getPost('cuerpo'),
+        ]);
+        echo view('articulo/articuloguardado');
+        }
+        else{
+            echo view('templates/header', ['title' => 'Create a articulo item']);
+            echo view('articulo/creararticulo');
+            echo view('templates/footer');
+        }
+    }
+}
