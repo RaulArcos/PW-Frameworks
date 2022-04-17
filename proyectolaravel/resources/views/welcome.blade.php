@@ -21,6 +21,7 @@
         </style>
     </head>
     <body class="antialiased">
-            <h1>Tutorial de Laravel</h1>
+       <h1>Tutorial Laravel 2021</h1>
+       <h2>Programación Web</h2>
     </body>
 </html>
