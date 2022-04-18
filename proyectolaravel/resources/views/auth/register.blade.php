@@ -1,7 +1,8 @@
-<x-guest-layout>
+@extends('layouts.header')
+@section('contenido')
     <x-jet-authentication-card>
         <x-slot name="logo">
-            <x-jet-authentication-card-logo />
+            
         </x-slot>
 
         <x-jet-validation-errors class="mb-4" />
@@ -57,4 +58,4 @@
             </div>
         </form>
     </x-jet-authentication-card>
-</x-guest-layout>
+@endsection
