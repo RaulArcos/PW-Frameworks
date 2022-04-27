@@ -1,7 +1,8 @@
-<x-guest-layout>
+@extends('layouts.header')
+@section('contenido')
     <x-jet-authentication-card>
         <x-slot name="logo">
-            <x-jet-authentication-card-logo />
+
         </x-slot>
 
         <x-jet-validation-errors class="mb-4" />
@@ -42,7 +43,8 @@
                 <x-jet-button class="ml-4">
                     {{ __('Log in') }}
                 </x-jet-button>
+                <a href= "{{route ('register')}}" class="btn btn-primary">Registrarse</a>
             </div>
         </form>
     </x-jet-authentication-card>
-</x-guest-layout>
+@endsection

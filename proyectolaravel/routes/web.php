@@ -1,6 +1,8 @@
 <?php
 
+use App\Http\Controllers\HolaController;
 use Illuminate\Support\Facades\Route;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -13,10 +15,19 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'HolaController@welcome')->name('welcome');
+Route::get('/articulos', 'ArticuloController@index')->name('articulos');
+Route::get('/articulos/nuevo', 'ArticuloController@nuevo')->name('insertar_articulo');
+Route::post('/articulos', 'ArticuloController@guardar')->name('guardar_articulo');
+Route::get('/articulos/{art}', 'ArticuloController@mostrar_articulo')->name ('un_articulo');
 
-Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
-    return view('dashboard');
-})->name('dashboard');
+
+Route::middleware([
+    'auth:sanctum',
+    config('jetstream.auth_session'),
+    'verified'
+])->group(function () {
+    Route::get('/dashboard', function () {
+        return view('dashboard');
+    })->name('dashboard');
+});
